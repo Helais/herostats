@@ -4,6 +4,11 @@ Library for collecting stats from Heros of the Storm replays
 
 ## Installation
 
+**Python is required for this gem**
+
+Info on installing python can be found [here](https://www.python.org/downloads/).
+
+
 Add this line to your application's Gemfile:
 
 ```ruby
